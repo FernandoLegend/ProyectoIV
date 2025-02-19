@@ -1,0 +1,22 @@
+@import url('//cdn.datatables.net/2.0.2/css/dataTables.dataTables.min.css');
+
+.table{
+    width: 1000px;
+    left: 50%;
+    transform: translate(-50%, 0%);
+    position: relative;
+}
+
+table{
+    height: 80%;
+}
+
+tr{
+    background-color: #c7c7c7;
+}
+td{
+    height: 50px;
+}
+.columna{
+    border-radius: 10 !important;
+}
